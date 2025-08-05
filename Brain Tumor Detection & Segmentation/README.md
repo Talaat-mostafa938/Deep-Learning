@@ -3,7 +3,7 @@ Week 2 of my AI journey with Instant Software Solutions has been incredible! I'm
 🎯 What I Built: A comprehensive Brain MRI Analysis System that doesn't just detect tumors—it precisely maps them!
 📁 Project Architecture:
 
-
+#---------#
 🔧 app/ → Interactive Streamlit dashboard
 🤖 models/ → Optimized neural networks (best_model.h5, model.h5)
 📊 notebooks/ → Complete DL pipelines
@@ -11,7 +11,7 @@ Week 2 of my AI journey with Instant Software Solutions has been incredible! I'm
  └── 🎨 Segmentation (U-Net)
 🛠️ Technology Stack:
 
-
+#-----------#
 🧠 Deep Learning → TensorFlow & Keras
 🎯 Classification → ResNet101 (Transfer Learning)
 🎨 Segmentation → U-Net Architecture
