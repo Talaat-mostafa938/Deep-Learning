@@ -1,16 +1,17 @@
-#🧠✨ Deep Learning in Medical AI: Brain Tumor Analysis System ✨🧠
+# 🧠✨ Deep Learning in Medical AI: Brain Tumor Analysis System ✨🧠
 Week 2 of my AI journey with Instant Software Solutions has been incredible! I'm excited to share my latest project that combines the power of CNNs with real-world medical applications.
 🎯 What I Built: A comprehensive Brain MRI Analysis System that doesn't just detect tumors—it precisely maps them!
 
-##📁 Project Architecture:
+## 📁 Project Architecture:
 
 🔧 app/ → Interactive Streamlit dashboard
 🤖 models/ → Optimized neural networks (best_model.h5, model.h5)
 📊 notebooks/ → Complete DL pipelines
  ├── 🎯 Classification (ResNet101)
  └── 🎨 Segmentation (U-Net)
-🛠️ Technology Stack:
-##
+
+## 🛠️ Technology Stack: 
+
 🧠 Deep Learning → TensorFlow & Keras
 🎯 Classification → ResNet101 (Transfer Learning)
 🎨 Segmentation → U-Net Architecture
@@ -25,6 +26,6 @@ Week 2 of my AI journey with Instant Software Solutions has been incredible! I'm
  🔸 Segmentation: High-resolution images with expert-annotated masks
 🌟 Impact: Bridging AI innovation with healthcare needs—making medical diagnosis more accessible and accurate!
 
-##📚 Datasets:
+## 📚 Datasets:
 Classification: https://lnkd.in/dTMUfgJJ
 Segmentation: https://lnkd.in/d648sK3p
