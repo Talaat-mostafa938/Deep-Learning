@@ -1,5 +1,5 @@
 # 🧠✨ Deep Learning in Medical AI: Brain Tumor Analysis System ✨🧠
-### Week 2 of my AI journey with Instant Software Solutions has been incredible! I'm excited to share my latest project that combines the power of CNNs with real-### world medical applications.
+### Week 2 of my AI journey with Instant Software Solutions has been incredible! I'm excited to share my latest project that combines the power of CNNs with real-world medical applications.
 ### 🎯 What I Built: A comprehensive Brain MRI Analysis System that doesn't just detect tumors—it precisely maps them!
 
 ## 📁 Project Architecture:
